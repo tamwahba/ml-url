@@ -6,7 +6,7 @@ Train a model to detect typed text (usually on a screen)
 
 ### To Do
 - [ ] Generate datasets
-    - [ ] Single letters
+    - [x] Single letters
     - [ ] Whole URLs
 - [ ] Create TensorFlow graph for letters
     - [ ] Ingest images
